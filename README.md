@@ -8,4 +8,4 @@ The repo contains the google ADK contribution PR and Issue pages. Since my main 
  - Open them in your browser.
    ## OR 
 ### 2) PDFs
-- View the PDFs from the PDF folder.
+- View the PDFs from the root folder.
